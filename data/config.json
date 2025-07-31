@@ -1,0 +1,32 @@
+{
+    "configsA": [
+        { "Nome" : "Wintoys", "ID" : "Microsoft.Wintoys" },
+        { "Nome" : "Microsoft Powertoys", "ID" : "Microsoft.PowerToys" },
+        { "Nome" : "WinDBG Utility", "ID" : "Microsoft.WinDbg" }
+    ],
+    "configsB": [
+        { "Nome" : "Microsoft Edge", "ID" : "Microsoft.MicrosoftEdge" },
+        { "Nome" : "Microsoft Teams", "ID" : "MicrosoftTeams" },
+        { "Nome" : "Microsoft Visual Studio", "ID" : "Microsoft.VisualStudio" }
+    ],
+    "configsC": [
+        { "Nome" : "Microsoft Office", "ID" : "Microsoft.Office" },
+        { "Nome" : "Microsoft OneDrive", "ID" : "Microsoft.OneDrive" },
+        { "Nome" : "Microsoft Outlook", "ID" : "Microsoft.Outlook" }
+    ],
+    "configsD": [
+        { "Nome" : "Microsoft SharePoint", "ID" : "Microsoft.SharePoint" },
+        { "Nome" : "Microsoft SQL Server", "ID" : "Microsoft.SQLServer" },
+        { "Nome" : "Microsoft Visual Studio Code", "ID" : "Microsoft.VisualStudioCode" }
+    ],
+    "configsE": [
+        { "Nome" : "Microsoft Windows Terminal", "ID" : "Microsoft.WindowsTerminal" },
+        { "Nome" : "Microsoft Windows Media Player", "ID" : "Microsoft.WindowsMediaPlayer" },
+        { "Nome" : "Microsoft Windows Photo Viewer", "ID" : "Microsoft.WindowsPhotoViewer" }
+    ],
+    "configsF": [
+        { "Nome" : "Microsoft Windows PowerShell", "ID" : "Microsoft.PowerShell" },
+        { "Nome" : "Microsoft Windows Defender", "ID" : "Microsoft.WindowsDefender" },
+        { "Nome" : "Microsoft Windows Update", "ID" : "Microsoft.WindowsUpdate" }
+    ]
+}
